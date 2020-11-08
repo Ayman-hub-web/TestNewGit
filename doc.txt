@@ -38,3 +38,8 @@ git push -u origin main
 - Wenn man Änderungen in Dateien vorgenommen hat und will diese Änderung anschauen bevor man dies online stellt
 - Man kann sich den Unterschied zwischen der lokalen und und der Online-Version anschauen. 
 - Das geht mit dem Befehl: git diff HEAD.
+- Man kann nach dem add von Dateien wieder dieser Dateien entfernen von .git mit: git reset DateiName 
+- Man kann brach erstellen mit: git branch Name 
+- Man kann wechseln von einem zu einem branch mit: git checkout Name 
+- Zwei branches mergen oder vermischen mit .. Man ist in einem branch und gibt: git merge Zweiter Branch 
+- Man kann branch lööschen mit: git branch -d BranchName
