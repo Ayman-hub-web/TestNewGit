@@ -33,4 +33,5 @@ git push -u origin main
 - Um eine Datei zu löschen macht man folgendes: git rm DateiName 
 - So dann gefolgt von git commit -m "commit" 
 - Um eine Änderung in einer Datei local oder online vorzunehmen gehet man so vor:
-- git add DateiName .. dann git commit -m "commit" ... dann git push
+- git add DateiName .. dann git commit -m "commit" ... dann git push 
+- Wenn in Team arbeitet und man möchte die aktuellste Version haben, dann gibt man : git pull origin master
