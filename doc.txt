@@ -35,3 +35,6 @@ git push -u origin main
 - Um eine Änderung in einer Datei local oder online vorzunehmen gehet man so vor:
 - git add DateiName .. dann git commit -m "commit" ... dann git push 
 - Wenn in Team arbeitet und man möchte die aktuellste Version haben, dann gibt man : git pull origin master
+- Wenn man Änderungen in Dateien vorgenommen hat und will diese Änderung anschauen bevor man dies online stellt
+- Man kann sich den Unterschied zwischen der lokalen und und der Online-Version anschauen. 
+- Das geht mit dem Befehl: git diff HEAD.
